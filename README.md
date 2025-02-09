@@ -28,8 +28,6 @@ Or use a LaTeX editor like **TeXShop**, **Overleaf**, or **VS Code with LaTeX Wo
 ## 📜 License
 This CV template is released under the [MIT License](LICENSE).
 
-## 📷 Preview (Future Update)
-_Include a screenshot or PDF preview of your CV here!_
 
 ---
 💡 **Pro Tip:** Want to automate PDF generation? Use a GitHub Action to compile LaTeX and generate a PDF automatically!
